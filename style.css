@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #fce7f3;
+}
+
+.heading {
+    padding: 30px;
+}
+
+.container {
+    /* text-align: center; */
+    /* background-color:#be185d ; */
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    display: block;
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    padding: 3px;
+    width: 18%;
+}
+
+button {
+    width: 10%;
+}
